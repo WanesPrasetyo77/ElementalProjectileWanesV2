@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - bawah1
+  - Post Processing
+  - Misya
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bawah1
+    uniqueID: 733293771
+    locked: 0
+  - name: bawah2
+    uniqueID: 120874687
+    locked: 0
+  - name: atas
+    uniqueID: 1330043571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bawah3
+    uniqueID: 1086705217
+    locked: 0
